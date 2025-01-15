@@ -1,0 +1,18 @@
+---
+name: hmpl
+desc: Server-oriented customizable templating for JavaScript
+site: https://hmpl-lang.dev
+tags:
+- language
+- javascript
+- rest
+- fetch
+- hmpl
+- html
+upforgrabs:
+  name: help wanted
+  link: https://github.com/hmpl-language/hmpl/labels/help%20wanted
+stats:
+  issue-count: 9
+  last-updated: '2025-01-13T09:26:39Z'
+  fork-count: 10

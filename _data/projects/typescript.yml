@@ -14,5 +14,6 @@ upforgrabs:
   name: Help Wanted
   link: https://github.com/microsoft/TypeScript/labels/Help%20Wanted
 stats:
-  issue-count: 833
-  last-updated: '2023-02-18T12:54:42Z'
+  issue-count: 1045
+  last-updated: '2025-01-15T08:08:35Z'
+  fork-count: 12622
